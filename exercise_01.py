@@ -3,7 +3,8 @@
 # Laboratory #03 - Guided Coding Exercise:
 # Variables, Literals, and Case-Sensitivity in Python (with Naming Conventions)
 
-count = 10                  
+count = 10
+Count = 15               
 decimal_value = 3.14        
 
 
